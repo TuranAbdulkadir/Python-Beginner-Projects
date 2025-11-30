@@ -1,0 +1,1 @@
+Checks if text reads the same backwards.
