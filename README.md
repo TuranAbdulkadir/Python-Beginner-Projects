@@ -1,6 +1,6 @@
-# 🐍 25 Beginner Python Projects
+# 🐍 35+ Beginner Python Projects
 
-A comprehensive collection of 25 simple but effective Python projects to demonstrate core programming concepts, logic building, and basic automation.
+A comprehensive collection of simple but effective Python projects to demonstrate core programming concepts, logic building, and basic automation.
 
 ## 📂 Project List
 
@@ -31,12 +31,25 @@ A comprehensive collection of 25 simple but effective Python projects to demonst
 | 23 | **Multiplication** | Generates multiplication tables. | Loops |
 | 24 | **Vowel Counter** | Counts vowels in a string. | String Ops |
 | 25 | **Even/Odd Check** | Checks if a number is even or odd. | Logic |
+| ... | ... | ... | ... |
+| 36 | **Snake Game** | Legendary Nokia Snake game clone. | Game/Turtle |
+| 37 | **Pong Arcade** | Retro 2-player tennis game. | Game/Turtle |
+| 38 | **Turtle Crossing** | Cross the road without getting hit. | Game/Turtle |
+| 39 | **Space War** | Space Invaders style shooter game. | Game/Turtle |
+| 40 | **Draw App** | Interactive drawing board with mouse. | GUI/Turtle |
+| 41 | **Analog Clock** | Real-time working analog clock. | GUI/Turtle |
+| 42 | **Starfield** | Warp speed space travel simulation. | Visual |
+| 43 | **Click Turtle** | Reflex testing aim game. | Game/Turtle |
+| 44 | **Fireworks** | Interactive fireworks animation. | Visual |
+| 45 | **Spiral Galaxy** | Algorithmic geometric art generator. | Visual |
 
 ---
 
 ### 🛠️ Installation & Usage
 Each project has its own folder. Navigate to the folder and run the `main.py` file.
-Some projects require external libraries. You can install them via pip:
+Projects 36-45 use the built-in `turtle` module, so no installation is needed for them!
+
+For projects 01-25, install dependencies via pip:
 
 ```bash
 pip install requests gTTS speedtest-cli PyPDF2 wikipedia pytubefix plyer
